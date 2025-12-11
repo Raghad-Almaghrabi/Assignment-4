@@ -4,7 +4,7 @@
 This is my third assignment for SWE363 – Web Engineering.  
 The goal of this project is to expand my personal portfolio website with **advanced JavaScript functionality**, **external API integration**, **state management**, **performance improvements**, and **AI-assisted development documentation**.
 
-Live Demo (optional): *(Add your GitHub Pages link here if deployed)*
+
 
 ---
 
